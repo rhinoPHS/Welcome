@@ -9,7 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.ourincheon.welcome.WelcomeActivity"
     android:id="@+id/welcomeRelativelayout"
-    android:background="#ffffff">
+    android:background="#6a4e4e">
 
     <TextView
         android:layout_width="wrap_content"
